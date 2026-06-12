@@ -8,8 +8,6 @@ En esta práctica se estudia el control de fuerza de un manipulador robótico en
 
 ## Tarea 1: Simular un Control P
 
----
-
 ### Fundamentos Teóricos
 
 Se realiza la ley de control explicada en anteriores informes (en esta ocasión se añaden las fuerzas externas):
