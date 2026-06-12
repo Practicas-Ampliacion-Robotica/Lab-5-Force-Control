@@ -235,7 +235,7 @@ En primer lugar, se vuelve a repetir el error deposición típico de estos contr
 
 ![Error F](images/pi/error_f.png)
 
-Se podría mejorar mediante los mismos métodos que el apartado anterior (control híbrido de fuerza y movimiento o consigna de posición)
+Se podría mejorar mediante los mismos métodos que el apartado anterior (control híbrido de fuerza y movimiento o consigna de posición).
 
 ## Conclusión
 
