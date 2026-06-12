@@ -197,8 +197,6 @@ Em ambos casos, el error de fuerza es distinto de 0:
 
 ## Tarea 2: Simular un Control PI
 
----
-
 ### Fundamentos Teóricos
 
 Para solucionar este error se propone el uso de un $$C_F$$ PI, el resto del bucle es el mismo del apartado anterior. Este controlador tiene la siguiente estructura:
@@ -236,6 +234,8 @@ En primer lugar, se vuelve a repetir el error deposición típico de estos contr
 ![Error F](images/pi/error_f.png)
 
 Se podría mejorar mediante los mismos métodos que el apartado anterior (control híbrido de fuerza y movimiento o consigna de posición).
+
+---
 
 ## Conclusión
 
