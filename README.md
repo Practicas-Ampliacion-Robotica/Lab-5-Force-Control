@@ -203,7 +203,7 @@ $$
 C_F = K_F + K_I \int (\cdot)\, d\zeta
 $$
 
-Según la anterior ecuación, añade un integrador al sistema, haciéndolo de tercer orden (antes era segundo).
+Según la anterior ecuación, añade un integrador al sistema, haciéndolo de tercer orden (antes era segundo). Este integrador es el encargado de eliminar ese error.
 
 ---
 
