@@ -150,15 +150,15 @@ De esta forma, el esquema en Simulink queda definido según:
 
 Se muestran la evolución de las siguientes variables en el dominio del tiempo:
 
-- Fuerza aplicada:
+- Fuerza aplicada, $f_e$:
 
 ![F aplicada](images/p/f.png)
 
-- Posición del efector final:
+- Posición del efector final, $x_e$:
 
 ![Posición EE](images/p/pos.png)
 
-- Velocidad del efector final:
+- Velocidad del efector final, $\dot{x}_e$:
 
 ![Velocidad EE](images/p/vel.png)
 
@@ -173,15 +173,15 @@ Por lo tanto el error de fuerza en el eje Y es 0, enviando la orden de no aplica
 
 Se trata de enviar una consigna de posición en el eje Y para evitar que caiga al suelo, quedando así sus gráficas:
 
-- Fuerza aplicada:
+- Fuerza aplicada, $f_e$:
 
 ![F aplicada](images/p_fixed/f.png)
 
-- Posición del efector final:
+- Posición del efector final, $x_e$:
 
 ![Posición EE](images/p_fixed/pos.png)
 
-- Velocidad del efector final:
+- Velocidad del efector final, $\dot{x}_e$:
 
 ![Velocidad EE](images/p_fixed/vel.png)
 
@@ -215,15 +215,15 @@ Su esquema de Simulink es el siguiente:
 
 Se procede a representar sus valores de fuerza, posición y velocidad:
 
-- Fuerza aplicada:
+- Fuerza aplicada, $f_e$:
 
 ![F aplicada](images/pi/f.png)
 
-- Posición del efector final:
+- Posición del efector final, $x_e$:
 
 ![Posición EE](images/pi/pos.png)
 
-- Velocidad del efector final:
+- Velocidad del efector final, $\dot{x}_e$:
 
 ![Velocidad EE](images/pi/vel.png)
 
